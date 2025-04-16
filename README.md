@@ -1,36 +1,105 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Muhammad Tasleem Portfolio 2.0
 
-## Getting Started
+![image](public/my-pic.jpg)
 
-First, run the development server:
+A modern, interactive portfolio website built with cutting-edge web technologies and stunning visual effects.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Technologies Used
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Frontend Framework**: Next.js 14 with TypeScript
+- **3D Graphics**: Three.js and Three-Globe
+- **UI Components**: Aceternity UI
+- **Styling**: Tailwind CSS
+- **Animation**: Framer Motion and GSAP
+- **State Management**: React Hooks
+- **Deployment**: Vercel
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🎯 Project Purpose
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+This portfolio showcases:
+- Professional work experience
+- Project showcase with interactive 3D globe visualization
+- Testimonials with infinite scrolling cards
+- Dynamic text animations
+- Interactive gradient backgrounds
+- Responsive design for all devices
 
-## Learn More
+## 🛠️ How It Works
 
-To learn more about Next.js, take a look at the following resources:
+### 1. Interactive 3D Globe
+- Uses Three.js and Three-Globe for 3D visualization
+- Displays project locations and connections
+- Interactive rotation and zoom controls
+- Dynamic data points and arcs
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 2. Animated Components
+- **Text Generation Effect**: Words appear with staggered animation
+- **Infinite Moving Cards**: Testimonials scroll horizontally
+- **Gradient Background**: Interactive color transitions
+- **Spotlight Effect**: Dynamic lighting on hover
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### 3. Responsive Design
+- Mobile-first approach
+- Adaptive layouts for different screen sizes
+- Optimized performance for all devices
 
-## Deploy on Vercel
+### 4. Data Management
+- Structured data organization
+- Dynamic content loading
+- Type-safe data handling with TypeScript
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🎨 Visual Features
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Interactive 3D globe visualization
+- Smooth animations and transitions
+- Dynamic gradient backgrounds
+- Responsive design elements
+- Modern UI components
+
+## 🚀 Getting Started
+
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Run the development server:
+   ```bash
+   npm run dev
+   ```
+4. Open [http://localhost:3000](http://localhost:3000) in your browser
+
+## 📦 Dependencies
+
+- next
+- react
+- react-dom
+- three
+- three-globe
+- framer-motion
+- gsap
+- tailwindcss
+- @react-three/fiber
+- @react-three/drei
+
+## 🔧 Configuration
+
+The project uses:
+- TypeScript for type safety
+- Tailwind CSS for styling
+- Next.js for routing and optimization
+- Three.js for 3D graphics
+
+## 🌟 Features
+
+- Interactive 3D globe visualization
+- Dynamic text animations
+- Infinite scrolling testimonials
+- Interactive gradient backgrounds
+- Responsive design
+- Modern UI components
+- Type-safe development
+
+## 📝 License
+
+MIT License - Feel free to use this project as a template for your own portfolio.
